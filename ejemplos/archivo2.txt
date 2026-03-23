@@ -1,0 +1,5 @@
+123456 Diego Mamani dmamani@fi.uba.ar 5
+087654 Laura Sosa lsosa@fi.uba.ar 8
+156789 Martin Diaz mdiaz@fi.uba.ar 4
+065432 Paula Vera pvera@fi.uba.ar 9
+167890 Nicolas Castro ncastro@fi.uba.ar 6

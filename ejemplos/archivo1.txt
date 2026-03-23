@@ -1,0 +1,5 @@
+112233 Maria Garcia mgarcia@fi.uba.ar 7
+098765 Carlos Ruiz cruiz@fi.uba.ar 3
+134567 Ana Gomez agomez@fi.uba.ar 9
+076543 Luis Torres ltorres@fi.uba.ar 6
+145678 Sofia Perez sperez@fi.uba.ar 10

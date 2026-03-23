@@ -1,0 +1,5 @@
+178901 Valentina Rios vrios@fi.uba.ar 7
+054321 Rodrigo Mendez rmendez@fi.uba.ar 10
+189012 Camila Flores cflores@fi.uba.ar 5
+043210 Ignacio Blanco iblanco@fi.uba.ar 8
+190123 Florencia Romero fromero@fi.uba.ar 3
